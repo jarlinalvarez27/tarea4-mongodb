@@ -102,6 +102,8 @@ Resultado: Máx: 31.7 °C / Mín: 22 °C
 Análisis de Resultados
 ---
 
+---
+
 ### 📸 Evidencias en MongoDB Compass
 
 A continuación se presentan las capturas de las consultas y operaciones realizadas en MongoDB Compass:
@@ -112,7 +114,7 @@ A continuación se presentan las capturas de las consultas y operaciones realiza
 2. **Consulta 2:** Temperaturas mayores a 30 °C  
    ![Consulta 2](Evidencias/consulta_2_temperaturas_mayores_30.png)
 
-3. **Consulta 3Humedad menor a 50 %  
+3. **Consulta 3:** Humedad menor a 50 %  
    ![Consulta 3](Evidencias/consulta_3_humedad_menor_50.png)
 
 4. **Agregación:** Promedio de temperatura  
@@ -123,6 +125,9 @@ A continuación se presentan las capturas de las consultas y operaciones realiza
 
 6. **Agregación:** Temperatura máxima y mínima  
    ![Agregación Máx-Min](Evidencias/agregacion_max_min.png)
+
+---
+
 
 ---
 
