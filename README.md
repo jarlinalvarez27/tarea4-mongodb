@@ -112,9 +112,14 @@ Referencias
 - Miranda, A., Oña, P., Mendoza, K., & Chango, W. (2023). *Evaluación comparativa de bases de datos NoSQL: clave/valor en un entorno de creaciones de aplicaciones.* ESPOCH Congresses, 3(2), 129–142.  
 - Sarasa, A. (2016). *Introducción a las bases de datos NoSQL usando MongoDB.*  
 - Gutiérrez Hernández, N. I., & Ibarra Limas, E. (2024). *Base de Datos para Proyectos de Big Data.* Congreso Internacional de Investigación Academia Journals.  
-  
 
+---
 
+ Reflexión Personal
 
-T08:05:00"
-}
+Durante el desarrollo de esta actividad logré afianzar mis conocimientos sobre el uso de bases de datos NoSQL y su aplicación en entornos de Big Data. La implementación en MongoDB me permitió comprender cómo almacenar, filtrar y analizar grandes volúmenes de información de forma estructurada y eficiente.  
+
+A través de MongoDB Compass pude visualizar los datos en tiempo real, aplicar consultas con operadores y realizar operaciones de agregación, lo que facilitó el análisis y comprensión del comportamiento de los registros.  
+
+Esta práctica fortaleció mis habilidades técnicas en el manejo de datos semiestructurados y reafirmó la importancia de las herramientas NoSQL en los proyectos modernos de análisis de información. Considero que este aprendizaje será de gran utilidad para futuros proyectos académicos y profesionales relacionados con el procesamiento y análisis de datos.
+
