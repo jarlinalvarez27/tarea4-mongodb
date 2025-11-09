@@ -69,7 +69,7 @@ Promedio de temperatura
 }
 
 
-📈 Resultado: 26.6 °C
+ Resultado: 26.6 °C
 
 Promedio de humedad
 
@@ -81,7 +81,7 @@ Promedio de humedad
 }
 
 
-📈 Resultado: 60.5 %
+ Resultado: 60.5 %
 
 Temperatura máxima y mínima
 
@@ -94,12 +94,37 @@ Temperatura máxima y mínima
 }
 
 
-📈 Resultado: Máx: 31.7 °C / Mín: 22 °C
+Resultado: Máx: 31.7 °C / Mín: 22 °C
 
 
 ---
 
 Análisis de Resultados
+---
+
+### 📸 Evidencias en MongoDB Compass
+
+A continuación se presentan las capturas de las consultas y operaciones realizadas en MongoDB Compass:
+
+1. **Consulta 1:** Mostrar todos los documentos  
+   ![Consulta 1](Evidencias/consulta_1_todos_los_documentos.png)
+
+2. **Consulta 2:** Temperaturas mayores a 30 °C  
+   ![Consulta 2](Evidencias/consulta_2_temperaturas_mayores_30.png)
+
+3. **Consulta 3Humedad menor a 50 %  
+   ![Consulta 3](Evidencias/consulta_3_humedad_menor_50.png)
+
+4. **Agregación:** Promedio de temperatura  
+   ![Agregación Temperatura](Evidencias/agregacion_promedio_temperatura.png)
+
+5. **Agregación:** Promedio de humedad  
+   ![Agregación Humedad](Evidencias/agregacion_promedio_humedad.png)
+
+6. **Agregación:** Temperatura máxima y mínima  
+   ![Agregación Máx-Min](Evidencias/agregacion_max_min.png)
+
+---
 
 La base de datos permitió evidenciar cómo MongoDB facilita el análisis de datos semiestructurados mediante operaciones de agregación.  
 Se logró calcular valores promedio, máximo y mínimo, demostrando la potencia de este sistema NoSQL para aplicaciones de IoT y Big Data.  
